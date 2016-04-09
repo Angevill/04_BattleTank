@@ -1,5 +1,6 @@
 # Customize Opt
 *.VC.db
+*.umap
 
 # Compiled Object files
 
